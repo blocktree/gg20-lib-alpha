@@ -1,0 +1,1 @@
+An implementation of multi-party {t,n}-threshold ECDSA based on GG20
